@@ -1,2 +1,3 @@
-# Git-Workshop-2024
-Hallo wereld, ik heb alles verwijderd
+# Git-Workshop-2024b
+Nu heb ik het toch weer veranderd
+ 
